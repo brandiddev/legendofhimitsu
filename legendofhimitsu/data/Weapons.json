@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Sima kard","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Balta","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":4},
+{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":41,"dataId":1,"value":1},{"code":42,"dataId":1,"value":1}],"iconIndex":101,"name":"Varázsbot","note":"","params":[0,0,2,0,30,0,0,0],"price":500,"wtypeId":13},
+{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Sima íj","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":5,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Acél kard","note":"","params":[0,0,15,0,0,0,0,0],"price":1000,"wtypeId":2},
+{"id":6,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Acél íj","note":"","params":[0,0,15,0,0,0,0,0],"price":1000,"wtypeId":7},
+{"id":7,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Megerősített Varázsbot","note":"","params":[0,0,15,0,15,0,0,0],"price":1000,"wtypeId":6},
+{"id":8,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Acél Balta","note":"","params":[0,0,15,0,0,0,0,0],"price":1000,"wtypeId":4},
+{"id":9,"animationId":111,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":104,"name":"Egyszerű Puska","note":"","params":[0,0,15,0,15,0,0,0],"price":1000,"wtypeId":9},
+{"id":10,"animationId":113,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":115,"name":"Sörétes","note":"","params":[0,0,25,0,0,0,0,0],"price":2000,"wtypeId":9},
+{"id":11,"animationId":111,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.7}],"iconIndex":116,"name":"Mesterlövész","note":"","params":[0,0,35,0,0,0,0,0],"price":4000,"wtypeId":9},
+{"id":12,"animationId":25,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":31,"dataId":9,"value":1}],"iconIndex":97,"name":"Darkness","note":"","params":[0,0,40,0,15,0,0,0],"price":7000,"wtypeId":2},
+{"id":13,"animationId":23,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":112,"name":"iker penge","note":"","params":[0,0,30,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":14,"animationId":16,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":31,"dataId":9,"value":1}],"iconIndex":105,"name":"Karom","note":"","params":[0,0,40,0,20,0,0,0],"price":0,"wtypeId":10}
+]
