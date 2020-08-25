@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":false,"name":"1","order":5,"parentId":3,"scrollX":1131,"scrollY":501},
 {"id":2,"expanded":true,"name":"MAP002","order":20,"parentId":0,"scrollX":1139,"scrollY":461},
-{"id":3,"expanded":true,"name":"1.pálya","order":1,"parentId":0,"scrollX":970.8,"scrollY":653.4},
+{"id":3,"expanded":true,"name":"1.pálya","order":1,"parentId":0,"scrollX":1131,"scrollY":661},
 {"id":4,"expanded":true,"name":"2","order":2,"parentId":3,"scrollX":1131,"scrollY":800},
 {"id":5,"expanded":false,"name":"3","order":3,"parentId":3,"scrollX":1131,"scrollY":790},
 {"id":6,"expanded":true,"name":"4","order":4,"parentId":3,"scrollX":1131,"scrollY":640},

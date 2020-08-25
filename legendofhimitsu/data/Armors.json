@@ -13,11 +13,11 @@ null,
 {"id":11,"atypeId":3,"description":"An essential equipment for novice adventurers.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":136,"name":"Adventurer Body Armor","note":"","params":[0,0,0,20,0,0,0,0],"price":0},
 {"id":12,"atypeId":5,"description":"A rare shield for only true warriors.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Warrior's Shield","note":"","params":[0,0,0,35,0,0,0,0],"price":0},
 {"id":13,"atypeId":7,"description":"A rare helmet for only true warriors.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":132,"name":"Warrior's Helmet","note":"","params":[50,0,0,25,0,0,0,0],"price":0},
-{"id":14,"atypeId":3,"description":"A rare shield for only true warriors.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"Warrior's Body Armor","note":"","params":[50,0,0,25,0,0,0,0],"price":0},
+{"id":14,"atypeId":3,"description":"A rare shield for only true warriors.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Warrior's Body Armor","note":"","params":[50,0,0,25,0,0,0,0],"price":0},
 {"id":15,"atypeId":9,"description":"An old necklance in bad shape.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":146,"name":"Worn Necklace","note":"","params":[0,0,0,0,0,5,0,0],"price":0},
 {"id":16,"atypeId":8,"description":"A shiny ring.. hmm very shiny.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Shiny ring","note":"","params":[0,0,0,0,5,0,0,0],"price":0},
 {"id":17,"atypeId":9,"description":"A jewel of a traveler, he probably pledged it in the village.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":146,"name":"Traveler's Necklance","note":"","params":[0,0,0,0,10,0,0,0],"price":0},
 {"id":18,"atypeId":8,"description":"A jewel of a traveler, he probably pledged it in the village.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Traveler's Ring","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":19,"atypeId":8,"description":"You might be really lucky","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"Ring of luck","note":"","params":[0,0,0,0,0,0,0,10],"price":0},
+{"id":19,"atypeId":8,"description":"You might be really lucky","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Ring of luck","note":"","params":[0,0,0,0,0,0,0,10],"price":0},
 {"id":20,"atypeId":9,"description":"Wow, this blue color look like the ocean.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":146,"name":"Blue Pearl Necklance","note":"","params":[0,50,0,0,0,15,0,0],"price":0}
 ]
