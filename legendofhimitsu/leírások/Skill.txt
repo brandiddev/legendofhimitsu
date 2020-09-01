@@ -1,0 +1,22 @@
+1-20.lv Skill - Normal Class				Special: Attack Formula: atk*4/6/8
+Active Skill	Passive Skill 
+
+
+20-35.lv Skill - Elite Class				Special: Attack Formula: atk*8/10/12
+Active Skill	Passive Skill
+
+
+35-50.lv Skill - Epic Class					Special: Attack Formula: atk*12/14/16
+Active Skill	Passive Skill
+
+
+50-75.lv Skill - Platina Class				Special: Attack Formula: atk*16/18/20
+Active Skill	Passive Skill
+
+
+75-90.lv Skill - World Class				Special: Attack Formula: atk*20/22/24
+Active Skill	Passive Skill
+
+
+90-99.lv Skill - God Class					Special: Attack Formula: atk*26/28/30
+Active Skill	Passive Skill

@@ -1,0 +1,28 @@
+Regular Item - Normal Class
+	- Heal Potion(10-30%)
+	- Small-Normal Abilities Boost
+	- Regular Posion Antidotes
+Rare Item - Elite Class
+	- Heal Potion(30-70%)
+	- Normal-Rare Abilities Boost
+	- Rare Posion Antidotes
+Very Rare Item - Epic Class
+	- Heal Potion(70-100%)
+	- Ultra Abilities Boost
+	- Ultra Posion Antidotes
+	- Passive Skill Learn
+	- State Buff(eternal)
+Ancient Item - Platina Class
+	- Dragon Slayer Passive Skill Learn
+	- State Ultra Buff(eternal)
+	- Abilities Buff(eternal)
+Mystic Item - World Class
+	- Dragon King,Elemental Slayer Passive Skill Learn
+	- State Demonic/Angel Buff(eternal)
+	- General God Buff(eternal)
+	- All Abilities Buff(eternal)
+Ultra Item - God Class
+	- God Slayer Passive Skill Learn
+	- State God/General God Buff(eternal)
+	- General God Extreme Buff(eternal)
+	- All Abilities Extreme Buff(eternal)
