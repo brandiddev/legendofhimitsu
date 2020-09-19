@@ -341,7 +341,7 @@ Scene_Menu.prototype.createMonogatari = function() {
 Scene_Menu.prototype.createAfter = function() {
 	 this.createSelection();
 	 this.createFaceArrow();
-	 this.createGold();
+	 //this.createGold();
 };
 
 //==============================
