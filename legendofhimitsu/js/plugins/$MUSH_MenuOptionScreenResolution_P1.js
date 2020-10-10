@@ -69,7 +69,7 @@
 * @param Resolution Options
 * @desc Set all the available resolutions.
 * Syntax: [ [x, y], [x, y], etc. ]
-* @default [ [816, 624], [1280, 720], [1920, 1080] ]
+* @default [1280, 720]
 *
 * @param Scale Graphics
 * @desc Set to true if you want to keep the default resolution proportions. 
