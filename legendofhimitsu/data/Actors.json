@@ -8,5 +8,6 @@ null,
 {"id":6,"battlerName":"alten","characterIndex":0,"characterName":"Alten","classId":6,"equips":[12,0,0,5,9],"faceIndex":0,"faceName":"Alten","traits":[],"initialLevel":99,"maxLevel":99,"name":"Alten","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"Himitsu(2évad)","characterIndex":0,"characterName":"Himitsu(2évad)","classId":7,"equips":[12,4,0,5,9],"faceIndex":0,"faceName":"Himitsu(2évad)","traits":[],"initialLevel":99,"maxLevel":99,"name":"Himitsu","nickname":"","note":"","profile":""},
 {"id":8,"battlerName":"","characterIndex":3,"characterName":"Actor3","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Angyal","nickname":"","note":"","profile":""},
-{"id":9,"battlerName":"Himitsu komoly","characterIndex":0,"characterName":"Himitsu komoly","classId":7,"equips":[12,4,0,5,3],"faceIndex":0,"faceName":"Himitsu komoly","traits":[],"initialLevel":35,"maxLevel":99,"name":"Himitsu","nickname":"","note":"","profile":""}
+{"id":9,"battlerName":"Himitsu komoly","characterIndex":0,"characterName":"Himitsu komoly","classId":7,"equips":[12,4,0,5,3],"faceIndex":0,"faceName":"Himitsu komoly","traits":[],"initialLevel":35,"maxLevel":99,"name":"Himitsu","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"Heal(Side2)","characterIndex":0,"characterName":"Heal(Side2)","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Healer(side2)","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
