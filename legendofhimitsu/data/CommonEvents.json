@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"list":[{"code":318,"indent":0,"parameters":[0,1,0,42]},{"code":0,"indent":0,"parameters":[]}],"name":"Farkas ölő","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":313,"indent":0,"parameters":[0,1,0,16]},{"code":0,"indent":0,"parameters":[]}],"name":"Curse","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":318,"indent":0,"parameters":[0,1,1,7]},{"code":0,"indent":0,"parameters":[]}],"name":"Skill Lighning Change","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":5,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":6,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},

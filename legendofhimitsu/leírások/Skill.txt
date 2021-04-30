@@ -20,3 +20,9 @@ Active Skill	Passive Skill
 
 90-99.lv Skill - God Class					Special: Attack Formula: atk*26/28/30
 Active Skill	Passive Skill
+
+Skillek:
+Isten Tábornok Element Változtatás/ God General Elemental Change Mode!
+- Earth,Holy,Darkness,Fire,Water,Ice,Wind
+
+Lejebb vinni az ellenség erejét, hogy fel scale-en.

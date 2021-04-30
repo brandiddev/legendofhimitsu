@@ -1,0 +1,50 @@
+Fajok ereje:
+
+	Ember: 
+		Életerő: 7
+		Mágia: 5 
+		Fizikai Erő: 6 
+		Védelem: 5 
+		Állóképesség: 4
+		
+	Szörnyek:
+		Életerő: 6 
+		Mágia: 7 
+		Fizikai Erő: 5 
+		Védelem: 7 
+		Állóképesség: 3 
+		
+	Angyal:
+		Életerő: 5
+		Mágia: 2 
+		Fizikai Erő: 7 
+		Védelem: 6 
+		Állóképesség: 7	
+		
+	Démon:
+		Életerő: 4 
+		Mágia: 3 
+		Fizikai Erő: 4 
+		Védelem: 4 
+		Állóképesség: 6	
+		
+	Behemót:
+		Életerő: 3 
+		Mágia: 6 
+		Fizikai Erő: 1 
+		Védelem: 1 
+		Állóképesség: 5	
+	
+	Sárkány:
+		Életerő: 1 
+		Mágia: 4 
+		Fizikai Erő: 3 
+		Védelem: 2 
+		Állóképesség: 2
+		
+	Isten Tábornok:
+		Életerő: 2 
+		Mágia: 1 
+		Fizikai Erő: 2 
+		Védelem: 3 
+		Állóképesség: 1
