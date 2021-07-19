@@ -564,7 +564,7 @@ DataManager.setupNewGame = function() {
 Game_System.prototype.setup_time_system = function() {	
     this._stop_time_message = false;
     this._stop_time_interpreter = false;
-	this._time_window_visible = true;
+	this._time_window_visible = false;
 	this._time_sys_active = true;
 	if (String(Moghunter.time_stop_message) === "true") {this._stop_time_message = true};
 	if (String(Moghunter.time_stop_interpreter) === "true") {this._stop_time_interpreter = true};
@@ -1370,9 +1370,9 @@ Window_Time_Status.prototype.update = function() {
 	Window_Base.prototype.update.call(this);
 	this.visible = this.need_visible();
     if ($gameSystem._refresh_window_time) {this.refresh();}
-	if (this.need_fade()) {this.opacity -= 15;}
-	else {this.opacity += 15};
-	this.contentsOpacity = this.opacity;
+	//if (this.need_fade()) {this.opacity -= 15;}
+	//else {this.opacity += 15};
+	//this.contentsOpacity = this.opacity;
 	if (this._mode === 0 && this._old_play_time != $gameSystem.playtime()) {this.refresh();this._old_play_time = $gameSystem.playtime()};
 };
 
@@ -1386,14 +1386,14 @@ Window_Time_Status.prototype.need_visible = function() {
 //==============================
 // * Need Fade
 //==============================
-Window_Time_Status.prototype.need_fade = function() {
+/*Window_Time_Status.prototype.need_fade = function() {
 	if ($gamePlayer.screen_realX() < this._window_size[0]) {return false};
 	if ($gamePlayer.screen_realX() > this._window_size[2]) {return false};
 	if ($gamePlayer.screen_realY() < this._window_size[1]) {return false};
 	if ($gamePlayer.screen_realY() > this._window_size[3]) {return false};
 	if (this.opacity < 100) {return false};
 	return true;	
-};
+};*/
 	
 //==============================
 // * Draw Time Contents

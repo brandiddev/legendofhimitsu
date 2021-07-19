@@ -1,0 +1,39 @@
+Heal Potion - 10 gold
+
+Wolf - 0.3X Heal Potion
+Werewolf - 1X Heal Potion
+Giantsnake - 2X Heal Potion
+Ghost - 2X Heal Potion
+Scorpion - 3X Heal Potion
+Forestorc - 3X Heal Potion
+Demon - 4X Heal Potion
+
+Armor Class
+
+E - 1X Heal Potion
+E+ - 3X Heal Potion
+D - 5X Heal Potion
+D+ - 7X Heal Potion
+C - 9X Heal Potion
+C+ - 12X Heal Potion
+
+Wepon Class
+
+E - 1X Heal Potion
+E+ - 3X Heal Potion
+D - 6X Heal Potion
+D+ - 9X Heal Potion
+C - 12X Heal Potion
+C+ - 16X Heal Potion
+
+Accessory Class
+
+E - 1X Heal Potion
+E+ - 2X Heal Potion
+D - 4X Heal Potion
+D+ - 8X Heal Potion
+C - 10X Heal Potion
+C+ - 14X Heal Potion
+
+Az accessory-nak vannak különböző típusai amit majda chapter II-től lesz használva és annak az
+osztályon kívül lesz plussz költsége.

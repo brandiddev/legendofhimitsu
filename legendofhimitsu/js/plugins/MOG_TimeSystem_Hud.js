@@ -501,6 +501,7 @@ SpriteTimeEngine.prototype.hour = function() {
 //==============================
 // * Update
 //==============================
+var szam = 0;
 SpriteTimeEngine.prototype.update = function() {
     Sprite.prototype.update.call(this);	
 	if (this._hud_size[0] === -1 && this._layout_img.isReady()) {this.refresh_data()};
@@ -513,15 +514,25 @@ SpriteTimeEngine.prototype.update = function() {
 	if (this._month) {this.update_month()};
 	if (this._year) {this.update_year()};
 	if (this._phase) {this.update_phase()};
-	if (this._season) {this.update_season()};	
+	if (this._season) {this.update_season()};
 };
 
 //==============================
 // * Update visible
 //==============================
+/*SpriteTimeEngine.prototype.update_visible = function() {
+	this.opacity = szam;
+	if($gameSystem._time_window_visible){
+		szam = 100;
+	};
+};*/
+
 SpriteTimeEngine.prototype.update_visible = function() {
 	if (this.is_hud_visible()) {this.opacity += 10}	 
 	else {this.opacity -= 10};
+	if(!$gameSystem._time_window_visible){
+		this.opacity = 0;
+	}
 };
 
 //==============================
@@ -606,6 +617,5 @@ SpriteTimeEngine.prototype.update_season = function() {
 //==============================
 Scene_Map.prototype.createTimeStatus = function() {
 };
-
 
 };
